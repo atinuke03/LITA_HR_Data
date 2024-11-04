@@ -18,11 +18,15 @@ This was calculated using measures to create Average age and a card visual to vi
 The sum of Attrition count by department was checked using a donut chart. Legend was used for department while values was used for thr sum of attrition count.
 ### Incubator Hub HR Data Analysis Tracker
 The textbox was used to create a title for the visualization on the dashboard.
+### Picture/Logo
+The picture attached was acheived by inserting images using the image button 
 ### Attrition Count by Education Field
 This was acheived using a clustered column chart to analyze sum of attrition count by education field.
 ### Attrition Count by Gender
 This was achieved using a pie chart to analyze sum of attrition count by gender.
-### 
+### Slicer
+A slicer visual in Power BI is a powerful tool for filtering data on reports and dashboards. It relates with values on the dashboard.
+### Current Number of Employee by Age band and Gender
+This was acheived using clustered column chart to view Current Number of Employee by Age band and gender. Conditional column was further used to sort in ascending order.
 
-
-- Conditional column was used to create Attrition count, job satisfaction rating and age sort.
+- Conditional column was used to create Attrition count, job satisfaction rating 
