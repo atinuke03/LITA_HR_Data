@@ -28,8 +28,8 @@ This was acheived using a clustered column chart to analyze sum of attrition cou
 ### Attrition Count by Gender
 This was achieved using a pie chart to analyze sum of attrition count by gender.
 
-### Slicer
-A slicer visual in Power BI is a powerful tool for filtering data on reports and dashboards. It relates with values on the dashboard.
+### Slicer for Education Field
+A slicer visual in Power BI is a powerful tool for filtering data on reports and dashboards. It relates with values on the dashboard. Slicer was used to filter Education field to help relate with the entiire column.
 
 ### Current Number of Employee by Age band and Gender
 This was acheived using clustered column chart to view Current Number of Employee by Age band and gender. Conditional column was further used to sort age by creating a new columnn on the table and the previous column (Age band) was replaced with the new column (Age Sort) and sort in ascending order. Thereport reveals that the current highest number of of employee is within the age 35-44. 
