@@ -11,7 +11,18 @@ This was achieved by creating a conditional column. It can also be achieved usin
 ### Total Number of Current Employee
 This was acheived by calculating the sum of current employee count and using a card visual to view on the dashboard. 
 ### Attrition Rate
-This was calculated using measures
+Conditional column was used to create Attrition count on the HR table. This was further calculated using measures as Attrition rate = Sum of Attrition count / Sum of Employee count
+### Average Age 
+This was calculated using measures to create Average age and a card visual to view on the dashboard. 
+### Sum of Attrition Count by Department
+The sum of Attrition count by department was checked using a donut chart. Legend was used for department while values was used for thr sum of attrition count.
+### Incubator Hub HR Data Analysis Tracker
+The textbox was used to create a title for the visualization on the dashboard.
+### Attrition Count by Education Field
+This was acheived using a clustered column chart to analyze sum of attrition count by education field.
+### Attrition Count by Gender
+This was achieved using a pie chart to analyze sum of attrition count by gender.
+### 
 
 
 - Conditional column was used to create Attrition count, job satisfaction rating and age sort.
