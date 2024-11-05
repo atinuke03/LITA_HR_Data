@@ -25,7 +25,7 @@ The sum of Attrition count by department was checked using a donut chart. Legend
 The textbox was used to create a title for the visualization on the dashboard.
 
 ### Picture/Logo
-The picture attached was acheived by inserting images using the image button 
+The picture attached was acheived by inserting images using the image button.
 
 ### Attrition Count by Education Field
 This was acheived using a clustered column chart to analyze sum of attrition count by education field.
