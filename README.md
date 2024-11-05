@@ -6,21 +6,29 @@ This project describes the data elicited from employees. The Human Resource data
 - The data was transformed for cleaning, first row was promoted to header. The data quality was checked using column quality, profile and distribution. The following data fields was built on the visual dash board:
 
 # Data Visualization
+Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, maps, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable. 
+
 ![HR DATA VISUALS 1](https://github.com/user-attachments/assets/b8e04b7a-a98b-4d4b-903c-dc9fbbd4386a)
 ![HR DATA VISUALS 2](https://github.com/user-attachments/assets/9723aad0-8dcd-40e5-8103-af65bf3850d6)
 
 ### Total Number of Employee 
-This was achieved by calculating the sum of employee count and using a card visual to view on the dashboard.
+This was achieved by calculating the sum of employee count and using a card visual to view on the dashboard. The result showed a total number of 1470 employees in the organization.
+
 ### Total Number of Attrition Count
-This was achieved by creating a conditional column. It can also be achieved using Question & Answer visual. Q & A helps to answer question in a natural language.
+This was achieved by creating a conditional column. It can also be achieved using Question & Answer visual. Q & A helps to answer question in a natural language. The result showed 237 employees have left the organization.
+
 ### Total Number of Current Employee
 This was acheived by calculating the sum of current employee count and using a card visual to view on the dashboard. 
+
 ### Attrition Rate
 Conditional column was used to create Attrition count on the HR table. This was further calculated using measures as Attrition rate = Sum of Attrition count / Sum of Employee count
+
 ### Average Age 
 This was calculated using measures to create Average age and a card visual to view on the dashboard. 
+
 ### Sum of Attrition Count by Department
 The sum of Attrition count by department was checked using a donut chart. Legend was used for department while values was used for the sum of attrition count.
+
 ### Incubator Hub HR Data Analysis Tracker
 The textbox was used to create a title for the visualization on the dashboard.
 
