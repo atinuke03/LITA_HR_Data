@@ -6,7 +6,8 @@ This project describes the data elicited from employees. The Human Resource data
 - The data was transformed for cleaning, first row was promoted to header. The data quality was checked using column quality, profile and distribution. The following data fields was built on the visual dash board:
 
 # Data Visualization
-
+![HR DATA VISUALS 1](https://github.com/user-attachments/assets/b8e04b7a-a98b-4d4b-903c-dc9fbbd4386a)
+![HR DATA VISUALS 2](https://github.com/user-attachments/assets/9723aad0-8dcd-40e5-8103-af65bf3850d6)
 
 ### Total Number of Employee 
 This was achieved by calculating the sum of employee count and using a card visual to view on the dashboard.
