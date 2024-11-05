@@ -7,6 +7,7 @@ This project describes the data elicited from employees. The Human Resource data
 
 # Data Visualization
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, maps, and infographics, data visualization tools and techniques help to make complex data more accessible, understandable, and usable. 
+
 ![HR APPLIED STEPS](https://github.com/user-attachments/assets/b6009476-3597-4070-b6e3-de15532c29bb)
 ![HR DATA VISUALS 1](https://github.com/user-attachments/assets/b8e04b7a-a98b-4d4b-903c-dc9fbbd4386a)
 ![HR DATA VISUALS 2](https://github.com/user-attachments/assets/9723aad0-8dcd-40e5-8103-af65bf3850d6)
