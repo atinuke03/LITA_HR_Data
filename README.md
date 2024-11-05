@@ -2,8 +2,12 @@
 # Project Overview
 This project describes the data elicited from employees. The Human Resource data generated is to analyze data to uncover insights of attrition rate from various department of the organization. The data was analyzed using Power BI 
 ## Data process
-- The data was extracted using excel.
+- The data was extracted using Micosoft Excel.
 - The data was transformed for cleaning, first row was promoted to header. The data quality was checked using column quality, profile and distribution. The following data fields was built on the visual dash board:
+
+# Data Visualization
+
+
 ### Total Number of Employee 
 This was achieved by calculating the sum of employee count and using a card visual to view on the dashboard.
 ### Total Number of Attrition Count
