@@ -18,13 +18,13 @@ This was achieved by calculating the sum of employee count and using a card visu
 This was achieved by creating a conditional column. It can also be achieved using Question & Answer visual. Q & A helps to answer question in a natural language. The result showed 237 employees have left the organization.
 
 ### Total Number of Current Employee
-This was acheived by calculating the sum of current employee count and using a card visual to view on the dashboard. 
+This was acheived by calculating the sum of current employee count and using a card visual to view on the dashboard. The result reported that 1233 employees are currently available in the organization.
 
 ### Attrition Rate
-Conditional column was used to create Attrition count on the HR table. This was further calculated using measures as Attrition rate = Sum of Attrition count / Sum of Employee count
+Conditional column was used to create Attrition count on the HR table. This was further calculated using measures as Attrition rate = Sum of Attrition count / Sum of Employee count. The result showed 16% Attrition rate.
 
 ### Average Age 
-This was calculated using measures to create Average age and a card visual to view on the dashboard. 
+This was calculated using measures to create Average age and a card visual to view on the dashboard. The result showed the average age of employees to be 37.
 
 ### Sum of Attrition Count by Department
 The sum of Attrition count by department was checked using a donut chart. Legend was used for department while values was used for the sum of attrition count.
@@ -42,7 +42,7 @@ This was acheived using a clustered column chart to analyze sum of attrition cou
 This was achieved using a pie chart to analyze sum of attrition count by gender.
 
 ### Slicer for Education Field
-A slicer visual in Power BI is a powerful tool for filtering data on reports and dashboards. It relates with values on the dashboard. Slicer was used to filter Education field to help relate with the entiire column.
+A slicer visual in Power BI is a powerful tool for filtering data on reports and dashboards. It relates with values on the dashboard. Slicer was used to filter Education field to help relate with the entiire values.
 
 ### Current Number of Employee by Age band and Gender
 This was acheived using clustered column chart to view Current Number of Employee by Age band and gender. Conditional column was further used to sort age by creating a new columnn on the table and the previous column (Age band) was replaced with the new column (Age Sort) and sort in ascending order. Thereport reveals that the current highest number of of employee is within the age 35-44. 
