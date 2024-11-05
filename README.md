@@ -20,7 +20,7 @@ Conditional column was used to create Attrition count on the HR table. This was 
 ### Average Age 
 This was calculated using measures to create Average age and a card visual to view on the dashboard. 
 ### Sum of Attrition Count by Department
-The sum of Attrition count by department was checked using a donut chart. Legend was used for department while values was used for thr sum of attrition count.
+The sum of Attrition count by department was checked using a donut chart. Legend was used for department while values was used for the sum of attrition count.
 ### Incubator Hub HR Data Analysis Tracker
 The textbox was used to create a title for the visualization on the dashboard.
 
