@@ -12,7 +12,7 @@ This project describes the data elicited from employees. The Human Resource data
 ### Total Number of Employee 
 This was achieved by calculating the sum of employee count and using a card visual to view on the dashboard.
 ### Total Number of Attrition Count
-This was achieved by creating a conditional column. It can also be achieved using Question & Answer visual. Q & A helps to answer question in a naturay way.
+This was achieved by creating a conditional column. It can also be achieved using Question & Answer visual. Q & A helps to answer question in a natural language.
 ### Total Number of Current Employee
 This was acheived by calculating the sum of current employee count and using a card visual to view on the dashboard. 
 ### Attrition Rate
