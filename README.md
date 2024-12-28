@@ -10,7 +10,7 @@ Data visualization is the graphical representation of information and data. By u
 
 ![HR APPLIED STEPS](https://github.com/user-attachments/assets/b6009476-3597-4070-b6e3-de15532c29bb)
 
-![HR DATA VISUALS 1](https://github.com/user-attachments/assets/b8e04b7a-a98b-4d4b-903c-dc9fbbd4386a)
+![Adjusted HR Data Visuals](https://github.com/user-attachments/assets/f671824f-c530-4d68-a7e2-6851eb9da1ff)
 
 ![HR DATA VISUALS 2](https://github.com/user-attachments/assets/9723aad0-8dcd-40e5-8103-af65bf3850d6)
 
