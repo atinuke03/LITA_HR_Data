@@ -1,7 +1,19 @@
 # Project Title: HR Data
+
+[Project Overview](#project-overview)
+
+[Data Process](#data-process)
+
+[Data Visualization](#data-visualization)
+
+[Summary of Findings](#summary-of-findings)
+
+
+
 # Project Overview
 This project describes the data elicited from employees. The Human Resource data generated is to analyze data to uncover insights of attrition rate from various department of the organization. The data was analyzed using Power BI 
-## Data process
+
+## Data Process
 - The data was extracted using Micosoft Excel.
 - The data was transformed for cleaning, first row was promoted to header. The data quality was checked using column quality, profile and distribution. The following data fields was built on the visual dash board:
 
@@ -14,6 +26,7 @@ Data visualization is the graphical representation of information and data. By u
 
 ![HR DATA VISUALS 2](https://github.com/user-attachments/assets/9723aad0-8dcd-40e5-8103-af65bf3850d6)
 
+# Summary of Findings
 ### Total Number of Employee 
 This was achieved by calculating the sum of employee count and using a card visual to view on the dashboard. The result showed a total number of 1470 employees in the organization.
 
