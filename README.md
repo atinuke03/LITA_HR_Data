@@ -8,6 +8,9 @@
 
 [Summary of Findings](#summary-of-findings)
 
+[Insights](#insights)
+
+[Recommendation](#recommendation)
 
 # Project Overview
 This project describes the data elicited from employees. The Human Resource data generated is to analyze data to uncover insights of attrition rate from various department of the organization. The data was analyzed using Power BI 
@@ -72,10 +75,21 @@ Conditional column was used to create a new column (job satisfaction). This was 
 The was achieved by using a table to check number of current employees who have left the organization based on their education. The report shows that a total of 99 employees with a Bachelor degree have left the organization.
 
 ### Job Role
-Slicer was used to visualize job role to relate  and filter down the other values on the dashboard.
+Slicer was used to visualize job role to relate and filter down the other values on the dashboard.
 
 ### Attrition Count by Gender
 The sum of attrition was visualized using a pie chart. The result showed that a total number of 150 male have left the organization and a total number of 87 female left the organization. However, more male employees left the organization compared to female employees.
 ### Attrition Count by Age band
 The attrition for each age group was visualized by first checking Sum of attrition count by age band using a clustered column chart. The age band was then filtered for each age group utilizing filter and pie chart was further used to visualize each of the age band by attrition. A text box was used to visualize the sum of attrition on each pie chart.
 
+# Insights
+1. The HR data revealed attrition rate of 16%. This signifies a significant number of emplyee has vacated the organization.
+2. 62% are males, while 38% are females. This shows a higher number of males vacated the organization.
+3. The 25-34 age group has the highest number of attrition with 112 (69 males, 43 females).
+
+# Recommendation
+It is recommended that the organization should:
+1. Implement mentorship and career development programs for young employees to enhance engagement and professional growth.
+2. Review Compensation and Benefits for employees to ensure they are competitive and attractive to both genders.
+3. Offer retention bonuses or other incentives for employees who stay beyond a certain period.
+4. 
